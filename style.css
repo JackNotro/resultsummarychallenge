@@ -75,7 +75,7 @@ body {
     padding: 2.8rem;
 }
 
-.result-section .section-title, .result-section p {
+.result-section .section-title, .result-section p, .total-score h4 {
     color: hsla(0, 0%, 100%, 0.6);
 }
 
